@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @quain99
+- 👀 I’m interested in C# and creating Game animations
+- 🌱 I’m currently learning C# and other useful things.
+- 💞️ I’m looking to collaborate on anything really.
+- 📫 How to reach me email me on work.opensec@outlook.com
